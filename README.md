@@ -26,7 +26,7 @@ __Key words__: *cavitation, stem anatomy, vessels, water conductivity*
 
 <sup>2</sup>University of Minnesota Duluth, Natural Research Institute, Duluth, MN, USA
 
-<sup>3</sup>Turku BioImaging, Åbo Akademi Unicersity and University of Turku, Turku, Finland
+<sup>3</sup>Turku BioImaging, Åbo Akademi University and University of Turku, Turku, Finland
 
 
 <!-- <p align="center">
