@@ -4,8 +4,9 @@ __Zorić Lana<sup>1</sup>, Pilipović Andrej<sup>2</sup>, Junel Solis<sup>3</sup
 [See affiliations](#organizational-affiliations)
 <!-- I have used the information from the manuscript draft, can correct if something has changed and needs to be edited. Also if the corresponding author needs to be added -->
 
-*--DOI badge here when available--*  
-This is a companion repository to the manuscript, detailing the image processing code.
+*iForest - Biogeosciences and Forestry, Volume 19, Issue 1, Pages 52-60 (2026)
+doi: https://doi.org/10.3832/ifor4868-018*  
+This is a companion repository to the article, detailing the image processing code.
 
 ### Abstract
 Selection programs targeting Populus species are primary oriented towards the formation of fast-growing genotypes. This study aimed to explore the anatomical features of stem xylem and vessel traits in Populus clones, offering valuable parameters for guiding future selection and breeding efforts. To achieve this objective, cross-sections of one-year-old shoots of two-year-old trees were analyzed using light microscopy. Measurements of xylem parameters were performed using automated image analysis, and theoretical hydraulic conductance (Kh), vulnerability index (Vi) and vessel grouping index were calculated.  
