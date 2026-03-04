@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/DOI-10.3832%2Fifor4868-018?style=flat-square&logo=doi&color=green&link=https%3A%2F%2Fdoi.org%2F10.3832%2Fifor4868-018)
+[![Static Badge](https://img.shields.io/badge/DOI-10.3832%2Fifor4868-018?style=flat-square&logo=doi&color=green)](https://doi.org/10.3832/ifor4868-018)
 ![Static Badge](https://img.shields.io/badge/python-3.12-blue?style=flat-square&logo=Python) ![Static Badge](https://img.shields.io/badge/nextflow-24.10.5-green?style=flat-square&logo=nextflow&color=%230CAE8)
 
 
