@@ -19,36 +19,23 @@ Based on the findings, we propose that stem anatomical characteristics related t
 
 __Key words__: *cavitation, stem anatomy, vessels, water conductivity*
 
+<sub><sup>1</sup>University of Novi Sad, Faculty of Sciences, Department of Biology and Ecology, Novi Sad, Serbia  
+<sup>2</sup>University of Minnesota Duluth, Natural Research Institute, Duluth, MN, USA  
+<sup>3</sup>Turku BioImaging, Åbo Akademi University and University of Turku, Turku, Finland</sub>  
+
+<p align="left" style="display: flex; justify-content: center; gap: 25px;">
+  <img src="https://novisad2022.rs/wp-content/uploads/2021/06/univerzitet-u-novom-sadu-297x300.png" alt="University of Novi Sad Logo" style="height: 75px; width: auto;">
+  <img src="https://apps.utu.fi/media/logo/UTU_logo_EN_RGB.png" alt="University of Turku Logo" style="height: 75px; width: auto;">
+  <img src="https://www.abo.fi/wp-content/uploads/2019/09/AboAkademi-logo_black.png" alt="Åbo Akademi Logo" style="height: 75px; width: auto;">
+</p>
+  
+
 
 ## Data sources
-*--Links to Allas bucket containing raw and output data--*  
+Raw image data - [Download](https://a3s.fi/swift/v1/2024-lana-zoric-populus-data/raw-data.zip)  
+StarDist model and weights - [Download](https://a3s.fi/swift/v1/2024-lana-zoric-populus-data/stardist-final.zip)
+
+<sub>Object storage for this project is hosted by the [Allas]([https://csc.fi](https://docs.csc.fi/data/Allas/)) service of the Centre for Scientific Computing (*Tieteen tietotekniikan keskus Oy*) in Finland.<sub>
 
 ## Workflow run
 *--add instructions for running the workflow--*
-
-## Organizational Affiliations
-<sup>1</sup>University of Novi Sad, Faculty of Sciences, Department of Biology and Ecology, Novi Sad, Serbia
-
-<sup>2</sup>University of Minnesota Duluth, Natural Research Institute, Duluth, MN, USA
-
-<sup>3</sup>Turku BioImaging, Åbo Akademi University and University of Turku, Turku, Finland
-
-
-<!-- <p align="center">
-  <img src="https://novisad2022.rs/wp-content/uploads/2021/06/univerzitet-u-novom-sadu-297x300.png" alt="University of Novi Sad Logo" width="200">
-</p>
-<p align="center">
-  <img src="https://apps.utu.fi/media/logo/UTU_logo_EN_RGB.png" alt="University of Turku Logo" width="500">
-</p>
-<p align="center">
-  <img src="https://www.abo.fi/wp-content/uploads/2019/09/AboAkademi-logo_black.png" alt="Åbo Akademi Logo" width="300">
-</p> -->
-
-
-
-
-<p align="center" style="display: flex; justify-content: center; gap: 25px;">
-  <img src="https://novisad2022.rs/wp-content/uploads/2021/06/univerzitet-u-novom-sadu-297x300.png" alt="University of Novi Sad Logo" style="height: 100px; width: auto;">
-  <img src="https://apps.utu.fi/media/logo/UTU_logo_EN_RGB.png" alt="University of Turku Logo" style="height: 100px; width: auto;">
-  <img src="https://www.abo.fi/wp-content/uploads/2019/09/AboAkademi-logo_black.png" alt="Åbo Akademi Logo" style="height: 100px; width: auto;">
-</p>
