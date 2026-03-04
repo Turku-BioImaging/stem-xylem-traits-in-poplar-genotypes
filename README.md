@@ -38,4 +38,9 @@ StarDist model and weights - [Download](https://a3s.fi/swift/v1/2024-lana-zoric-
 <sub>Object storage for this project is hosted by the [Allas]([https://csc.fi](https://docs.csc.fi/data/Allas/)) service of the Centre for Scientific Computing (*Tieteen tietotekniikan keskus Oy*) in Finland.<sub>
 
 ## Workflow run
-*--add instructions for running the workflow--*
+```
+nextflow run main.nf -c nextflow.config.local -resume
+```
+This workflow was built using [Nextflow](https://nextflow.io) and therefore requires a UNIX-based operating system such as Linux or MacOS. On Microsoft Windows, [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) is a good option.
+
+Download and extract the raw image data. Create a local copy of `nextflow.config.example` e.g. `nextflow.config.local` and modify it to fit your local parameters. Setup a Python 3.12 environment based on `./environment.yml`. Execute `nextflow` within the Python environment.
