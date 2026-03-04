@@ -1,0 +1,83 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Stem Xylem Traits in Poplar Genotypes"
+abstract: >
+  Companion repository to the article detailing the image processing code for
+  automated analysis of xylem and vessel traits in Populus clones using light
+  microscopy and StarDist-based segmentation.
+repository-code: "https://github.com/Turku-BioImaging/stem-xylem-traits-in-poplar-genotypes"
+license: "CC-BY-4.0"
+authors:
+  - family-names: Zorić
+    given-names: Lana
+    affiliation: "University of Novi Sad, Faculty of Sciences, Department of Biology and Ecology, Novi Sad, Serbia"
+    orcid: "https://orcid.org/0000-0002-4261-2844"
+  - family-names: Pilipović
+    given-names: Andrej
+    affiliation: "University of Minnesota Duluth, Natural Research Institute, Duluth, MN, USA"
+    orcid: "https://orcid.org/0000-0002-5678-9012"
+  - family-names: Solis
+    given-names: Junel
+    affiliation: "Turku BioImaging, Åbo Akademi University and University of Turku, Turku, Finland"
+    orcid: "https://orcid.org/0000-0003-0972-5262"
+  - family-names: Bibi
+    given-names: Ramish
+    affiliation: "Turku BioImaging, Åbo Akademi University and University of Turku, Turku, Finland"
+    orcid: "https://orcid.org/0009-0002-7712-9868"
+  - family-names: Belaia
+    given-names: Irina
+    affiliation: "Turku BioImaging, Åbo Akademi University and University of Turku, Turku, Finland"
+    orcid: "https://orcid.org/0000-0001-7594-0679"
+  - family-names: Tokic
+    given-names: Dado
+    affiliation: "Turku BioImaging, Åbo Akademi University and University of Turku, Turku, Finland"
+    orcid: "https://orcid.org/0009-0007-8471-3006"
+  - family-names: Kankaanpää
+    given-names: Pasi
+    affiliation: "Turku BioImaging, Åbo Akademi University and University of Turku, Turku, Finland"
+    orcid: "https://orcid.org/0000-0002-5890-0883"
+  - family-names: Davidović
+    given-names: Sonja
+    affiliation: "University of Novi Sad, Faculty of Sciences, Department of Biology and Ecology, Novi Sad, Serbia"
+  - family-names: Karanović
+    given-names: Dunja
+    affiliation: "University of Novi Sad, Faculty of Sciences, Department of Biology and Ecology, Novi Sad, Serbia"
+    orcid: "https://orcid.org/0000-0002-8007-4610"
+  - family-names: Luković
+    given-names: Jadranka
+    affiliation: "University of Novi Sad, Faculty of Sciences, Department of Biology and Ecology, Novi Sad, Serbia"
+    orcid: "https://orcid.org/0000-0003-2384-7610"
+  type: article
+  title: >
+    Stem Xylem Traits in Poplar Genotypes (Populus L.): additional parameters
+    for selection and breeding
+  authors:
+    - family-names: Zorić
+      given-names: Lana
+    - family-names: Pilipović
+      given-names: Andrej
+    - family-names: Solis
+      given-names: Junel
+    - family-names: Bibi
+      given-names: Ramish
+    - family-names: Belaia
+      given-names: Irina
+    - family-names: Tokic
+      given-names: Dado
+    - family-names: Kankaanpää
+      given-names: Pasi
+    - family-names: Davidović
+      given-names: Sonja
+    - family-names: Karanović
+      given-names: Dunja
+    - family-names: Luković
+      given-names: Jadranka
+  journal: "iForest - Biogeosciences and Forestry"
+  volume: 19
+  issue: 1
+  start: 52
+  end: 60
+  year: 2026
+  doi: "10.3832/ifor4868-018"
+  url: "https://doi.org/10.3832/ifor4868-018"
