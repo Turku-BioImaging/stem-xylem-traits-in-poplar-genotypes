@@ -7,7 +7,6 @@
 # Stem Xylem Traits in Poplar Genotypes (Populus L.): *additional parameters for selection and breeding*
 
 __Zorić Lana<sup>1</sup>, Pilipović Andrej<sup>2</sup>, Junel Solis<sup>3</sup>, Ramish Bibi<sup>3</sup>, Irina Belaia<sup>3</sup>, Dado Tokic<sup>3</sup>, Pasi Kankaanpää <sup>3</sup>, Davidović Sonja <sup>1</sup>, Karanović Dunja <sup>1</sup>, Luković Jadranka <sup>1</sup>__
-[See affiliations](#organizational-affiliations)
 
 *iForest - Biogeosciences and Forestry, Volume 19, Issue 1, Pages 52-60 (2026)
 doi: https://doi.org/10.3832/ifor4868-018*  
